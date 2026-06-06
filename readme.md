@@ -70,6 +70,6 @@
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jordan--boutrois-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/jordan-boutrois)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jordan--boutrois-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jordan-boutrois-3313101bb)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jordanboutrois.fr-000000?style=flat-square&logo=safari&logoColor=white)](https://jordanboutrois.fr)
 [![Email](https://img.shields.io/badge/Email-jordanboutroispro@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jordanboutroispro@gmail.com)
